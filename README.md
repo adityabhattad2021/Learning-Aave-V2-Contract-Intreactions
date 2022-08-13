@@ -1,4 +1,4 @@
-# This is an implimentation to intract with AAVE Protocals V2 Contracts with this Project we are going to learn to:
+# This is an implimentation to intract with AAVE Protocal V2 Contracts, with this Project we are going to learn to:
 1. Deposit Collateral: ETH / WETH
 2. Borrow Another Asset: DAI 
 3. Repay the DAI
